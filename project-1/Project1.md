@@ -1,11 +1,14 @@
-## Documentation For AWS LAMP STACK IMPLEMENTATION
-# This Project shows how to implement LAMP(Linux,Apache,Mysql,PhP) on AWS
+# DOCUMENTATION For AWS LAMP STACK IMPLEMENTATION
+## This Project shows how to implement LAMP(Linux,Apache,Mysql,PhP) on AWS
 
 Before launching the Ubuntu virtual machine we need to install some dependencies on our local machine 
 
 - [Install OpenSSH](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=powershell#tabpanel_1_powershell)
 
 - [OpenSSH Key Management](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
+
+- [Gooogle](https://google.com)
+  
 
 This dependcies help to authenticate your laptop to have access to the server and github easily
 
@@ -36,7 +39,9 @@ or curl http://<public address>:80`**
 
 
 ## .............................. INSTALLING MSQL................................
+
  --- 
+
 
 Install Mysql on the ubuntu server.
 
